@@ -1,7 +1,7 @@
 # executable-jar-dependencies-springboot-plugin
 Executable jar dependencies through spring boot maven plugin
 
-# Build the spring boot application
+# Build the executable jar file
 mvn clean install
 
 # Run executable jar
